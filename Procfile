@@ -1,1 +1,1 @@
-web: npm install && node index.js
+web: npm install && npm i @whiskeysockets/baileys --save && node index.js 
